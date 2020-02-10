@@ -1,4 +1,4 @@
- GM_setValue('percentThreshold_BTCUSD', 99)
+ GM_setValue('percentThreshold_BTCUSD', 98)
   GM_setValue('percentThreshold_ETHUSD', 99)
   GM_setValue('percentThreshold_XRPUSD', 99)
   GM_setValue('percentThreshold_ETCUSD', 99)
