@@ -11,7 +11,10 @@
   GM_setValue('dynLevelCoef_ETCUSD', 1.79)
   GM_setValue('dynLevelCoef_ZECUSD', 1.98)
   GM_setValue('dynLevelCoef_DASHUSD', 2.09)
- 
+  
+  
+  GM_setValue('minDelayBetweenOrdersSec', [65, 225])
+  GM_setValue('reloadOnConnectionReset', true)
   GM_setValue('dynLevelSafe_BTCUSD', 45)
   GM_setValue('dynLevelSafe_ETHUSD', 55)
   GM_setValue('dynLevelSafe_XRPUSD', 45)
