@@ -26,9 +26,13 @@
   GM_setValue('diffSafe_ZECUSD', [-100, 100])
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
  
-  
-  GM_setValue('minDelayBetweenOrdersSec', [65, 225])
   GM_setValue('reloadOnConnectionReset', true)
+  GM_setValue('minDelayBetweenOrdersSec', [65, 600])
+  GM_setValue('reloadOnConnectionReset', true)
+  GM_setValue('delayLevelToMinOrder', 1.5)
+  GM_setValue('delayLevelToStop', 3.5)
+  GM_setValue('orderMinDelay', 1)
+
   GM_setValue('maxBalance', 501)
   GM_setValue('minBalance', 50)
   GM_setValue('stopLossPercent', 5)
