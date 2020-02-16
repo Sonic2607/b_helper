@@ -19,8 +19,6 @@
   GM_setValue('delayLevelToStop', 3.5)
   GM_setValue('orderMinDelay', 1)
 
-  GM_setValue('minDelayBetweenOrdersSec', [65, 225])
-  GM_setValue('reloadOnConnectionReset', true)
   GM_setValue('dynLevelSafe_BTCUSD', 57)
   GM_setValue('dynLevelSafe_ETHUSD', 57)
   GM_setValue('dynLevelSafe_XRPUSD', 57)
