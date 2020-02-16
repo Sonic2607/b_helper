@@ -12,7 +12,13 @@
   GM_setValue('dynLevelCoef_ZECUSD', 1.97)
   GM_setValue('dynLevelCoef_DASHUSD', 2.08)
  
-  
+  GM_setValue('reloadOnConnectionReset', true)
+  GM_setValue('minDelayBetweenOrdersSec', [65, 600])
+  GM_setValue('reloadOnConnectionReset', true)
+  GM_setValue('delayLevelToMinOrder', 1.5)
+  GM_setValue('delayLevelToStop', 3.5)
+  GM_setValue('orderMinDelay', 1)
+
   GM_setValue('minDelayBetweenOrdersSec', [65, 225])
   GM_setValue('reloadOnConnectionReset', true)
   GM_setValue('dynLevelSafe_BTCUSD', 57)
