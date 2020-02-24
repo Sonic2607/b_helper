@@ -25,6 +25,7 @@
   GM_setValue('delayLevelToMinOrder', 1.5)
   GM_setValue('delayLevelToStop', 3.1)
   GM_setValue('orderMinDelay', 1)
+  GM_setValue('minDelayBetweenOrdersSecDelay', [7200, 10800 ]
  
   GM_setValue('diffSafe_BTCUSD', [-100, 100])
   GM_setValue('diffSafe_ETHUSD', [-100, 100])
