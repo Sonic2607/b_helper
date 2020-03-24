@@ -30,9 +30,9 @@
   GM_setValue('reloadOnConnectionReset', true)
   GM_setValue('minDelayBetweenOrdersSec', [65, 600])
   GM_setValue('reloadOnConnectionReset', true)
-  GM_setValue('delayLevelToMinOrder', 1)
+  GM_setValue('delayLevelToMinOrder', 1.2)
   GM_setValue('delayLevelToStop', 2.9)
-  GM_setValue('orderMinDelay', 1.2)
+  GM_setValue('orderMinDelay', 1)
   GM_setValue('minDelayBetweenOrdersSecDelay', [7200, 10800 ])
 
   GM_setValue('maxBalance', 501)
