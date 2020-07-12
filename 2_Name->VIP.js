@@ -20,7 +20,7 @@
   GM_setValue('dynLevelSafe_DASHUSD', 54)
 
   GM_setValue('reloadOnConnectionReset', true)
-  GM_setValue('minDelayBetweenOrdersSec', [65, 600])
+  GM_setValue('minDelayBetweenOrdersSec', [165, 600])
   GM_setValue('reloadOnConnectionReset', true)
   GM_setValue('delayLevelToMinOrder', 1.4)
   GM_setValue('delayLevelToStop', 2)
