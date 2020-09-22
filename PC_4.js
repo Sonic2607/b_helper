@@ -24,7 +24,7 @@
   GM_setValue('reloadOnConnectionReset', true)
   GM_setValue('delayLevelToMinOrder', 1)
   GM_setValue('delayLevelToStop', 2)
-  GM_setValue('orderMinDelay', 1)
+  GM_setValue('orderMinDelay', 1.3)
   GM_setValue('minDelayBetweenOrdersSecDelay', [7200, 10800 ])
  
   GM_setValue('diffSafe_BTCUSD', [-100, 100])
