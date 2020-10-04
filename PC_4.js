@@ -35,7 +35,7 @@
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
  
   GM_setValue('maxBalance', 551)
-  GM_setValue('minBalance', 65)
+  GM_setValue('minBalance', 5)
   GM_setValue('stopLossPercent', 11)
   GM_setValue('maxOpenTrades', 1)
   GM_setValue('minDelayBetweenOrdersSec', 611)
