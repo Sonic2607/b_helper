@@ -20,7 +20,6 @@
   GM_setValue('dynLevelSafe_DASHUSD', 54)
 
   GM_setValue('reloadOnConnectionReset', true)
-  GM_setValue('minDelayBetweenOrdersSec', [165, 600])
   GM_setValue('reloadOnConnectionReset', true)
   GM_setValue('delayLevelToMinOrder', 1.4)
   GM_setValue('delayLevelToStop', 2)
@@ -34,8 +33,8 @@
   GM_setValue('diffSafe_ZECUSD', [-100, 100])
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
  
-  GM_setValue('maxBalance', 455)
-  GM_setValue('minBalance', 7)
+  GM_setValue('maxBalance', 451)
+  GM_setValue('minBalance', 5)
   GM_setValue('stopLossPercent', 11)
   GM_setValue('maxOpenTrades', 1)
   GM_setValue('minDelayBetweenOrdersSec', [600, 900])
