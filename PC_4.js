@@ -38,7 +38,7 @@
   GM_setValue('minBalance', 5)
   GM_setValue('stopLossPercent', 11)
   GM_setValue('maxOpenTrades', 1)
-  GM_setValue('minDelayBetweenOrdersSec', 1211)
+  GM_setValue('minDelayBetweenOrdersSec', [600, 900])
   GM_setValue('orderUpdate', true)
   GM_setValue('orderUpdateRandomFlag', true)
   GM_setValue('orderPercent', 0)
