@@ -34,7 +34,7 @@
   GM_setValue('diffSafe_ZECUSD', [-100, 100])
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
  
-  GM_setValue('maxBalance', 405)
+  GM_setValue('maxBalance', 455)
   GM_setValue('minBalance', 8)
   GM_setValue('stopLossPercent', 11)
   GM_setValue('maxOpenTrades', 1)
