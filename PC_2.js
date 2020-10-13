@@ -43,7 +43,7 @@
   GM_setValue('orderPercent', 0)
   GM_setValue('orderPercentMin', 7)
   GM_setValue('orderPercentMax', 11)
-  GM_setValue('orderMax', 25)
+  GM_setValue('orderMax', 5)
   GM_setValue('orderMin', 5)
   GM_setValue('orderRoundCoef', 1)
   GM_setValue('soundON', false)
