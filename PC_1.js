@@ -12,12 +12,12 @@
   GM_setValue('dynLevelCoef_ZECUSD', 1.96)
   GM_setValue('dynLevelCoef_DASHUSD', 1.96)
  
-  GM_setValue('dynLevelSafe_BTCUSD', 50)
-  GM_setValue('dynLevelSafe_ETHUSD', 50)
-  GM_setValue('dynLevelSafe_XRPUSD', 50)
-  GM_setValue('dynLevelSafe_ETCUSD', 50)
+  GM_setValue('dynLevelSafe_BTCUSD', 59)
+  GM_setValue('dynLevelSafe_ETHUSD', 59)
+  GM_setValue('dynLevelSafe_XRPUSD', 59)
+  GM_setValue('dynLevelSafe_ETCUSD', 59)
   GM_setValue('dynLevelSafe_ZECUSD', 59)
-  GM_setValue('dynLevelSafe_DASHUSD', 54)
+  GM_setValue('dynLevelSafe_DASHUSD', 59)
 
   GM_setValue('reloadOnConnectionReset', true)
   GM_setValue('reloadOnConnectionReset', true)
