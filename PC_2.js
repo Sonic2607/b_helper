@@ -5,8 +5,8 @@
   GM_setValue('percentThreshold_ZECUSD', 80)
   GM_setValue('percentThreshold_DASHUSD', 80)
  
-  GM_setValue('dynLevelCoef_BTCUSD', [1.8, 1.8])
-  GM_setValue('dynLevelCoef_ETHUSD', [1.8, 1.8])
+  GM_setValue('dynLevelCoef_BTCUSD', [1.8, 2.1])
+  GM_setValue('dynLevelCoef_ETHUSD', [1.9, 2.2])
   GM_setValue('dynLevelCoef_XRPUSD', [1.8, 1.8])
   GM_setValue('dynLevelCoef_ETCUSD', [1.8, 1.8])
   GM_setValue('dynLevelCoef_ZECUSD', [1.8, 1.8])
@@ -33,7 +33,7 @@
   GM_setValue('diffSafe_ZECUSD', [-100, 100])
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
  
-  GM_setValue('maxBalance', 305)
+  GM_setValue('maxBalance', 605)
   GM_setValue('minBalance', 5)
   GM_setValue('stopLossPercent', 19)
   GM_setValue('maxOpenTrades', 1)
