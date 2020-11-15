@@ -32,7 +32,8 @@
   GM_setValue('diffSafe_ETCUSD', [-100, 100])
   GM_setValue('diffSafe_ZECUSD', [-100, 100])
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
- 
+  
+  GM_setValue('orderSqueezeLimit', 0.1)
   GM_setValue('maxBalance', 305)
   GM_setValue('minBalance', 5)
   GM_setValue('stopLossPercent', 13)
