@@ -1,4 +1,4 @@
-  GM_setValue('orderSqueezeLimitCur', 0.007)
+  GM_setValue('orderSqueezeLimitCur', 0.1)
 
   GM_setValue('devThresh_AUDCAD', [-0.006, 0.006])
   GM_setValue('devThresh_EURNZD', [-0.006, 0.006])
