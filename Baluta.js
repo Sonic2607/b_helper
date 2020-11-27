@@ -5,7 +5,7 @@
   GM_setValue('devThresh_EURAUD', [-0.007, 0.007])
   GM_setValue('devThresh_CHFJPY', [-0.006, 0.006])
   GM_setValue('devThresh_USDCHF', [-0.006, 0.006])
-  GM_setValue('devThresh_EURUSD', [-0.006, 0.006])
+  GM_setValue('devThresh_EURUSD', [-0.007, 0.007])
   GM_setValue('devThresh_NZDCAD', [-0.006, 0.006])
   GM_setValue('devThresh_GBPUSD', [-0.006, 0.006])
   GM_setValue('devThresh_AUDCHF', [-0.006, 0.006])
