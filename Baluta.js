@@ -18,7 +18,7 @@
   GM_setValue('percentThreshold_USDCHF', 99)
   GM_setValue('percentThreshold_EURUSD', 80)
   GM_setValue('percentThreshold_NZDCAD', 99)
-  GM_setValue('percentThreshold_GBPUSD', 80)
+  GM_setValue('percentThreshold_GBPUSD', 99)
   GM_setValue('percentThreshold_AUDCHF', 99)
   GM_setValue('percentThreshold_USDCAD', 99)
 
