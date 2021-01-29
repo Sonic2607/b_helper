@@ -16,9 +16,9 @@
   GM_setValue('percentThreshold_EURAUD', 99)
   GM_setValue('percentThreshold_CHFJPY', 99)
   GM_setValue('percentThreshold_USDCHF', 99)
-  GM_setValue('percentThreshold_EURUSD', 80)
+  GM_setValue('percentThreshold_EURUSD', 99)
   GM_setValue('percentThreshold_NZDCAD', 99)
-  GM_setValue('percentThreshold_GBPUSD', 80)
+  GM_setValue('percentThreshold_GBPUSD', 99)
   GM_setValue('percentThreshold_AUDCHF', 99)
   GM_setValue('percentThreshold_USDCAD', 99)
 
@@ -58,7 +58,7 @@
   GM_setValue('diffSafe_DASHUSD', [-100, 100])
   
   GM_setValue('orderSqueezeLimit', 0.08)
-  GM_setValue('maxBalance', 505)
+  GM_setValue('maxBalance', 505000)
   GM_setValue('minBalance', 5)
   GM_setValue('stopLossPercent', 15)
   GM_setValue('maxOpenTrades', 1)
